@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 23. 10. 2026
+  Features:
+    - Initial release.
+    - Mining drills: output including speed and productivity bonuses, and when the resources under the drill run out.
+    - Inserters: chest-to-chest throughput, matching the measured swing times of Factorio 2.1.
+    - Chests and cargo wagons: items stored, and the fill or empty rate measured while you hover.
+    - Electric poles: when the accumulators of the network are full or empty.
+    - Crafting machines with productivity: progress towards the next free craft.
+    - Remote interface: collect, watch, unwatch and inserter_throughput.

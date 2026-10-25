@@ -1,0 +1,46 @@
+data:extend({
+  {
+    type = "bool-setting",
+    name = "insight-tooltips-drills",
+    setting_type = "runtime-global",
+    default_value = true,
+    order = "a",
+  },
+  {
+    type = "bool-setting",
+    name = "insight-tooltips-inserters",
+    setting_type = "runtime-global",
+    default_value = true,
+    order = "b",
+  },
+  {
+    type = "bool-setting",
+    name = "insight-tooltips-crafters",
+    setting_type = "runtime-global",
+    default_value = true,
+    order = "c",
+  },
+  {
+    type = "bool-setting",
+    name = "insight-tooltips-containers",
+    setting_type = "runtime-global",
+    default_value = true,
+    order = "d",
+  },
+  {
+    type = "bool-setting",
+    name = "insight-tooltips-poles",
+    setting_type = "runtime-global",
+    default_value = true,
+    order = "e",
+  },
+  {
+    type = "int-setting",
+    name = "insight-tooltips-update-interval",
+    setting_type = "runtime-global",
+    default_value = 30,
+    minimum_value = 10,
+    maximum_value = 600,
+    order = "z",
+  },
+})

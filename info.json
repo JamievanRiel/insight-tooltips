@@ -1,0 +1,9 @@
+{
+  "name": "insight-tooltips",
+  "version": "1.0.0",
+  "title": "Insight Tooltips",
+  "author": "Jamie",
+  "description": "Adds the numbers the vanilla tooltips leave out: when a mining drill runs dry, how many items an inserter really moves, how fast a chest fills up or empties, when your accumulators run out and how close the next productivity bonus is.",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1.0"]
+}
