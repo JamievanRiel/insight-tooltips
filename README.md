@@ -1,7 +1,7 @@
 # Insight Tooltips
 
 Adds the numbers the vanilla tooltips leave out. Hover an entity and the extra lines appear in its tooltip, next to what
-Factorio already shows. Nothing is duplicated: if the game already tells you something, this mod does not repeat it.
+Factorio already shows.
 
 | Entity | Extra lines |
 |---|---|
